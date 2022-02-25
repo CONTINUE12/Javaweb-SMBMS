@@ -26,3 +26,7 @@
 - 订单信息表smbms_bill
 - 订货联系人地址表smbms_address
 - 用户角色表smbms_role
+
+五.项目讲解博客
+
+https://blog.csdn.net/qq_39144436/article/details/123136150
