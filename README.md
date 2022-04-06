@@ -44,3 +44,6 @@ https://github.com/CONTINUE12/SpringBoot_StudentManagerSystem
 
 4.基于Spring+SpringMVC+Mybatis的图书管理系统 
 https://github.com/CONTINUE12/SSM_LibrarySystem
+
+5.基于AWT和Swing及MYSQL开发的学校教务系统 
+https://github.com/CONTINUE12/JavaSE_School_Management_System
